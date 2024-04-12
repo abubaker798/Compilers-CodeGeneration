@@ -1,0 +1,3 @@
+D:/Semester7/compilers/assignments/ass4/cmake-build-debug/CMakeFiles/ass4.dir
+D:/Semester7/compilers/assignments/ass4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Semester7/compilers/assignments/ass4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
